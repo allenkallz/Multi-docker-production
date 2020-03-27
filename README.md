@@ -1,12 +1,12 @@
 # Multi-docker-production
 
-Component :
+### Component :
 * Docker 
 * Docker-compose
 * nginx
 * node 
 
-Node application :
+### Node application :
 * Client
 * Server
 * Worker 
